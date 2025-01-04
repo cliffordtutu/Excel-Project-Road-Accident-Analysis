@@ -10,4 +10,4 @@ Some insights to be drawn were:
 5. Maximum casualties by road type, top 3.
 6. Relationship between casualties on the basis of Area/Location and Day/Night.
 
-A detailed explanation is made in the Project Overview file.
+_A detailed explanation is made in the Project Overview file._
